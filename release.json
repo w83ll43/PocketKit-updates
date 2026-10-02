@@ -1,7 +1,7 @@
 {
   "version": "1.9.0",
-  "build": "24",
-  "notes": "完善检查更新与默认更新地址，兼容蒲公英官方安装页，接入云端自动构建、签名和发布。",
-  "installURL": "https://www.pgyer.com/pocketkit",
-  "publishedAt": "2026-10-02T17:11:15.834Z"
+  "build": "25",
+  "notes": "修正应用包名为 app.pocketkit.ios，使用现有证书兼容签名。首次安装此包名版本；请保留旧版，本地数据不会自动迁移。",
+  "installURL": "https://www.pgyer.com/shiqi-ios",
+  "publishedAt": "2026-10-02T17:48:10.344Z"
 }
