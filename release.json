@@ -1,0 +1,7 @@
+{
+  "version": "1.9.0",
+  "build": "23",
+  "notes": "完善检查更新与默认更新地址，接入云端自动构建、签名和蒲公英发布。",
+  "installURL": "itms-services://?action=download-manifest&url=https://www.pgyer.com/app/plist/603dbdac0f5dfb9c071e43285de14b03",
+  "publishedAt": "2026-10-02T16:55:34.973Z"
+}
