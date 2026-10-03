@@ -1,7 +1,7 @@
 {
   "version": "1.9.0",
-  "build": "25",
-  "notes": "修正应用包名为 app.pocketkit.ios，使用现有证书兼容签名。首次安装此包名版本；请保留旧版，本地数据不会自动迁移。",
-  "installURL": "itms-services://?action=download-manifest&url=https://www.pgyer.com/app/plist/ac53328297628bedd49fc7b256fcf08f",
-  "publishedAt": "2026-10-02T17:48:10.344Z"
+  "build": "27",
+  "notes": "新增已配对设备管理，接入 SwiftTerm 持续终端，优化组合键与每日工具操作间距。",
+  "installURL": "itms-services://?action=download-manifest&url=https://www.pgyer.com/app/plist/48ddc330a6eec474a726e9ce40110b4e",
+  "publishedAt": "2026-10-03T07:27:48.352Z"
 }
