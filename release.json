@@ -2,6 +2,6 @@
   "version": "1.9.0",
   "build": "25",
   "notes": "修正应用包名为 app.pocketkit.ios，使用现有证书兼容签名。首次安装此包名版本；请保留旧版，本地数据不会自动迁移。",
-  "installURL": "https://www.pgyer.com/shiqi-ios",
+  "installURL": "itms-services://?action=download-manifest&url=https://www.pgyer.com/app/plist/ac53328297628bedd49fc7b256fcf08f",
   "publishedAt": "2026-10-02T17:48:10.344Z"
 }
